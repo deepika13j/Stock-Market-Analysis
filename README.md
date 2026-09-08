@@ -56,28 +56,8 @@ Stock-Market-Analysis/
 ├── src/
 ├── README.md
 └── requirements.txt
-- Daily Return Distribution
-- NIFTY 50 Benchmark Comparison
-
-## Project Structure
-
-```text
-Stock-Market-Analysis/
-├── dashboard/
-│   ├── Advanced_Stock_Market_Analytics.twb
-│   └── Advanced_Stock_Market_Analytics.twbx
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   └── 01_data_collection.ipynb
-├── images/
-├── src/
-├── README.md
-└── requirements.txt
+```
 
 ## Dashboard Preview
 
-![Advanced Stock Market Analytics Dashboard](images/dashboard.png)- Daily Return Distribution
-- NIFTY 50 Benchmark Comparison
-
+![Advanced Stock Market Analytics Dashboard](images/dashboard.png)
