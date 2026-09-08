@@ -55,3 +55,6 @@ Stock-Market-Analysis/
 ├── src/
 ├── README.md
 └── requirements.txt
+## Dashboard Preview
+
+![Advanced Stock Market Analytics Dashboard](images/dashboard.png)
