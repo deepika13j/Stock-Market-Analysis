@@ -45,6 +45,7 @@ The analysis covers stock returns, volatility, cumulative returns, maximum drawd
 ```text
 Stock-Market-Analysis/
 ├── dashboard/
+│   ├── Advanced_Stock_Market_Analytics.twb
 │   └── Advanced_Stock_Market_Analytics.twbx
 ├── data/
 │   ├── raw/
