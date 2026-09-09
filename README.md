@@ -61,3 +61,11 @@ Stock-Market-Analysis/
 ## Dashboard Preview
 
 ![Advanced Stock Market Analytics Dashboard](images/dashboard.png)
+
+
+## Key Findings
+
+- ICICI Bank delivered the highest cumulative return among the analyzed stocks.
+- NIFTY 50 showed strong overall market performance.
+- Infosys had the highest volatility among the individual stocks.
+- NIFTY 50 had the lowest maximum drawdown, indicating comparatively lower downside risk.
